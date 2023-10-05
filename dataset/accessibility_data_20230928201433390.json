@@ -1,0 +1,690 @@
+{
+    "sourceUrl": "https://www.google.com.br/",
+    "eventListeners": [
+        {
+            "id": "el1ac7c3da-fc5e-4c91-9e46-8c43fdd30c14",
+            "nodeId": 1,
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 272,
+                    "columnNumber": 548,
+                    "backendNodeId": 1
+                }
+            ]
+        },
+        {
+            "id": "el5b40e9b2-bf36-400a-b2ca-92d04b081b42",
+            "nodeId": 3,
+            "xpath": "/html[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 3,
+                    "columnNumber": 288,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 22,
+                    "columnNumber": 225,
+                    "backendNodeId": 15
+                }
+            ]
+        },
+        {
+            "id": "elcca51601-75c6-4fca-ade8-934c1248a12d",
+            "nodeId": 28,
+            "xpath": "/html[1]/body[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 121,
+                    "columnNumber": 1170,
+                    "backendNodeId": 13
+                }
+            ]
+        },
+        {
+            "id": "el96a9c806-ec7b-4227-b1b7-36042574f510",
+            "nodeId": 31,
+            "xpath": "/html[1]/body[1]/div[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 42
+                }
+            ]
+        },
+        {
+            "id": "el58694f3d-4d2f-4b4c-a1bd-b26ab1a745d4",
+            "nodeId": 54,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1805.984375,
+                "y": 22,
+                "width": 72.015625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 65
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 65
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 65
+                }
+            ]
+        },
+        {
+            "id": "elfa1e1bf8-3c72-4d7f-bc58-3eae6a5f56d9",
+            "nodeId": 48,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+            "elementInfo": {
+                "x": 1729.984375,
+                "y": 10,
+                "width": 40,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 59
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 59
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 59
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 59
+                }
+            ]
+        },
+        {
+            "id": "el47016fcd-a1d7-440c-a6e7-694d75ce4795",
+            "nodeId": 187,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "elementInfo": {
+                "x": 683,
+                "y": 377,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 1901,
+                    "columnNumber": 470,
+                    "backendNodeId": 193
+                }
+            ]
+        },
+        {
+            "id": "el03eb4a0b-b2dd-48e8-b7e9-c101b769c58a",
+            "nodeId": 329,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[4]/center[1]/input[1]",
+            "elementInfo": {
+                "x": 833.15625,
+                "y": 454,
+                "width": 106.640625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 1901,
+                    "columnNumber": 8,
+                    "backendNodeId": 332
+                }
+            ]
+        },
+        {
+            "id": "elce9d95ca-821e-4583-9d06-44020c8489b5",
+            "nodeId": 41,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1612.15625,
+                "y": 18,
+                "width": 33.953125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                }
+            ]
+        },
+        {
+            "id": "el615e7bc6-06b9-4cce-b137-36f5415d5b36",
+            "nodeId": 44,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1661.109375,
+                "y": 18,
+                "width": 49.875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                }
+            ]
+        },
+        {
+            "id": "el26ef508a-96e2-4418-aa3c-1e56fd890924",
+            "nodeId": 216,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]",
+            "elementInfo": {
+                "x": 1131,
+                "y": 377,
+                "width": 24,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 221
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 221
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 221
+                }
+            ]
+        },
+        {
+            "id": "el8faad1df-7961-4afd-a89f-670b8ac6960f",
+            "nodeId": 221,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]",
+            "elementInfo": {
+                "x": 1171,
+                "y": 377,
+                "width": 24,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 225
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 225
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 225
+                }
+            ]
+        },
+        {
+            "id": "elb003881a-15d6-4637-995e-1293986ed557",
+            "nodeId": 229,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]",
+            "elementInfo": {
+                "x": 1211,
+                "y": 377,
+                "width": 24,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 233
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 233
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 233
+                }
+            ]
+        },
+        {
+            "id": "el8e381686-37e8-4abc-8f98-d73e27446568",
+            "nodeId": 50,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1737.984375,
+                "y": 18,
+                "width": 24,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 61
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 61
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 61
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 61
+                }
+            ]
+        },
+        {
+            "id": "el9454b08d-d2ac-4b14-902a-eb465e819457",
+            "nodeId": 209,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 214
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 214
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 412,
+                    "columnNumber": 35,
+                    "backendNodeId": 214
+                }
+            ]
+        },
+        {
+            "id": "el76dbc0aa-6f23-4554-a29f-14bd6eeae203",
+            "nodeId": 310,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 1901,
+                    "columnNumber": 8,
+                    "backendNodeId": 314
+                }
+            ]
+        },
+        {
+            "id": "elab106fa9-c47f-4a2b-b1f7-02a4be54bd9e",
+            "nodeId": 313,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[2]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "13",
+                    "lineNumber": 1901,
+                    "columnNumber": 170,
+                    "backendNodeId": 317
+                }
+            ]
+        }
+    ]
+}
