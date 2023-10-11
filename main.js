@@ -5,7 +5,7 @@ const CDP = require('chrome-remote-interface');
 const fs = require('fs');
 const readline = require('readline');
 const { createCanvas, loadImage } = require('canvas');
-const { v4: uuidv4 } = require('uuid');  // Adicionado para geração de UUID
+const { v4: uuidv4 } = require('uuid'); // Adicionado para geração de UUID
 
 //Definição do Scrapper, classe que tem função de obter os dados.
 class Scraper {
@@ -16,7 +16,7 @@ class Scraper {
         this.dataset = [];
     }
 
-//Método que inicializa o scrapeper, onde ocorre a abertura do navegador e a conexão com o DevTools Protocol.
+    //Método que inicializa o scrapeper, onde ocorre a abertura do navegador e a conexão com o DevTools Protocol.
     async init(url) {
         //O driver do navegador é configurado e iniciado.
         this.driver = new Builder()
@@ -54,7 +54,6 @@ class Scraper {
         return result.value;
     }
 
-
     //Método que tem a função de capturar todos os event listeners dos elementos da página e incrementar o dataset.
     async captureAllEventListeners() {
         //Se inicia e acessa o DOM e o DOMDebugger do Chrome DevTools Protocol(CDP)
@@ -88,8 +87,8 @@ class Scraper {
                 const keyboardAndMouseListeners = listeners.filter(listener => 
                     ["keydown", "keyup", "keypress", "click", "mousedown", "mouseup", "mousemove"].includes(listener.type)
                 );
-                
-                //Ocorre a tentativa de obter as informações do modelo da box e após 
+
+                 //Ocorre a tentativa de obter as informações do modelo da box e após 
                 let elementInfo = null;
                 try {
                     const { model } = await DOM.getBoxModel({ nodeId });
@@ -109,7 +108,8 @@ class Scraper {
                     const xpath = await this.getXPathFromObjectId(object.objectId);
                     this.dataset.push({
                         id: `el${uuidv4()}`,  // Gera um identificador alfanumérico único usando UUID.
-                        nodeId, xpath, elementInfo, eventListeners: keyboardAndMouseListeners 
+                        nodeId, xpath, elementInfo, eventListeners: keyboardAndMouseListeners,
+                        marked: !!elementInfo  // true se elementInfo existir, false caso contrário
                     });
                 }
             } catch (error) {
@@ -126,21 +126,25 @@ class Scraper {
             const data = await fs.promises.readFile(screenshotPath);
             const img = await loadImage(data);
 
-            const extraWidth = 400;  // Ajuste conforme necessário
+            const extraWidth = 400; // Ajuste conforme necessário
             const canvas = createCanvas(img.width + extraWidth, img.height);
             const ctx = canvas.getContext('2d');
             ctx.drawImage(img, 0, 0);
 
-            const xpathColumnX = img.width + 10;  // X-posição inicial da coluna XPath
-            let xpathColumnY = 20;  // Y-posição inicial da coluna XPath
+            const xpathColumnX = img.width + 10;// X-posição inicial da coluna XPath
+            let xpathColumnY = 20; // Y-posição inicial da coluna XPath
 
-            const colors = ['green', 'blue', 'red', 'purple', 'orange'];  // Adicionado array de cores
+            const colors = ['green', 'blue', 'red', 'purple', 'orange']; // Adicionado array de cores
 
-            ctx.font = '14px Arial';  // Ajuste o tamanho da fonte conforme necessário
+            ctx.font = '14px Arial'; // Ajuste o tamanho da fonte conforme necessário
 
-            this.dataset.forEach((item, index) => {  // Adicionado index
-                const { elementInfo, xpath } = item;  // Alterado 'id' para 'xpath'
+            let markedCount = 0;
+            let notMarkedCount = 0;
+
+            this.dataset.forEach((item, index) => { // Adicionado index
+                const { elementInfo, xpath } = item; // Alterado 'id' para 'xpath'
                 if (elementInfo) {
+                    markedCount++;
                     const x = elementInfo.x;
                     const y = elementInfo.y;
                     const width = elementInfo.width;
@@ -153,10 +157,10 @@ class Scraper {
 
                     // Desenha o XPath na coluna
                     ctx.fillStyle = 'blue';
-                    ctx.fillText(`${xpath}`, xpathColumnX, xpathColumnY);  // Alterado `#${id}` para `${xpath}`
+                    ctx.fillText(`${xpath}`, xpathColumnX, xpathColumnY); // Alterado `#${id}` para `${xpath}`
 
-                    const colorIndex = index % colors.length;  // Calculado índice da cor
-                    const lineColor = colors[colorIndex];  // Obtido cor
+                    const colorIndex = index % colors.length; // Calculado índice da cor
+                    const lineColor = colors[colorIndex]; // Obtido cor
 
                     const lineStartX = x + width / 2;
                     const lineStartY = y + height / 2;
@@ -166,13 +170,21 @@ class Scraper {
                     ctx.beginPath();
                     ctx.moveTo(lineStartX, lineStartY);
                     ctx.lineTo(lineEndX, lineEndY);
-                    ctx.strokeStyle = lineColor;  // Definido cor da linha
+                    ctx.strokeStyle = lineColor; // Definido cor da linha
                     ctx.lineWidth = 2;
                     ctx.stroke();
 
-                    xpathColumnY += 30;  // Ajuste a posição Y para o próximo XPath
+                    xpathColumnY += 30; // Ajuste a posição Y para o próximo XPath
+                    item.marked = true;
+                } else {
+                    notMarkedCount++;
+                    item.marked = false;
                 }
             });
+
+            //Imprime no console a quantidade de elementos que foram marcados  e  os que não foram
+            console.log(`Elementos marcados: ${markedCount}`);
+            console.log(`Elementos não marcados: ${notMarkedCount}`);
 
             const out = fs.createWriteStream(screenshotPath);
             const stream = canvas.createPNGStream();
@@ -183,14 +195,22 @@ class Scraper {
         }
     }
 
-//Método para salvar no JSON
+    //Método para salvar no JSON
     async saveToJSON(url) {
         //É criado um timestamp com a data e horas, com formato ISO.
         const timestamp = new Date().toISOString().replace(/[^0-9]/g, '');
-        //Objeto criado para armazenar URL da fonte e as informações sobre os eventListeners. 
+        //Objeto criado para armazenar URL da fonte, as informações sobre os eventListeners e quantidade total de elementos marcados e não marcados
+        const markedCount = this.dataset.filter(item => item.elementInfo).length;
+        const notMarkedCount = this.dataset.length - markedCount;
         const outputData = {
             sourceUrl: url,
-            eventListeners: this.dataset
+            eventListeners: this.dataset,
+            stats: {
+                markedCount,
+                markedCountExplanation: 'Número de elementos que contêm informações de dimensão e, portanto, são marcados na screenshot.',
+                notMarkedCount,
+                notMarkedCountExplanation: 'Número de elementos que não contêm informações de dimensão e não são marcados na screenshot.'
+            }
         };
         //Nome do arquivo é definido utilizando uma strng template que inclui o caminho do diretorio + timestamp
         const filename = `dataset/accessibility_data_${timestamp}.json`;
@@ -199,7 +219,7 @@ class Scraper {
         return filename;
     }
 
-    //Fecha as conexões e o navegador. 
+    //Fecha as conexões e o navegador.
     async close() {
         if (this.client) {
             this.client.close();
@@ -227,7 +247,9 @@ async function promptUser(query) {
 //Função assíncrona é executado quunado o script for carrgado, onde é solcitado a URL desejada,
 //após um scraper executa  várias operações: capturar eventListeners, salvamento dos dado.
 //Além disto o erro é registrado  no console  e ao final o scrapper é finalizado e libera os recursos.
+//Dentro do mesmo é calculado o tempo de execução do script
 (async function() {
+    const startTime = process.hrtime();
     const url = await promptUser('Por favor, insira a URL do site: ');
 
     const scraper = new Scraper();
@@ -244,5 +266,7 @@ async function promptUser(query) {
         console.error('Erro:', error);
     } finally {
         await scraper.close();
+        const elapsedTime = process.hrtime(startTime);
+        console.log(`Tempo total de execução: ${elapsedTime[0]}s ${elapsedTime[1] / 1e6}ms`);
     }
 })();
