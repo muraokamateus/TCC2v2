@@ -1,0 +1,392 @@
+{
+    "sourceUrl": "https://www.instagram.com/",
+    "eventListeners": [
+        {
+            "id": "elc9c65b76-5cc2-4b7c-a9ec-96f588a327aa",
+            "nodeId": 1,
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "17",
+                    "lineNumber": 57,
+                    "columnNumber": 937,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "17",
+                    "lineNumber": 57,
+                    "columnNumber": 1036,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 284,
+                    "columnNumber": 1234,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 284,
+                    "columnNumber": 1288,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 284,
+                    "columnNumber": 1462,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 994,
+                    "columnNumber": 193,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "17",
+                    "lineNumber": 57,
+                    "columnNumber": 2204,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "24",
+                    "lineNumber": 49,
+                    "columnNumber": 422,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "17",
+                    "lineNumber": 57,
+                    "columnNumber": 2204,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 994,
+                    "columnNumber": 193,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "24",
+                    "lineNumber": 49,
+                    "columnNumber": 422,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "17",
+                    "lineNumber": 57,
+                    "columnNumber": 2204,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 994,
+                    "columnNumber": 193,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "18",
+                    "lineNumber": 282,
+                    "columnNumber": 1466,
+                    "backendNodeId": 1
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elfdc3e3c3-dd3e-456d-a402-616c87dfad0b",
+            "nodeId": 3,
+            "xpath": "/html[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 284,
+                    "columnNumber": 248,
+                    "backendNodeId": 8
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "24",
+                    "lineNumber": 85,
+                    "columnNumber": 903,
+                    "backendNodeId": 8
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 284,
+                    "columnNumber": 278,
+                    "backendNodeId": 8
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": true,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "24",
+                    "lineNumber": 85,
+                    "columnNumber": 903,
+                    "backendNodeId": 8
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": true,
+                    "once": false,
+                    "scriptId": "24",
+                    "lineNumber": 85,
+                    "columnNumber": 903,
+                    "backendNodeId": 8
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el865e0c25-71de-43e5-9870-727ba69fee28",
+            "nodeId": 173,
+            "xpath": "/html[1]/body[1]/div[2]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180386,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 152177,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180386,
+                    "backendNodeId": 173
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "16",
+                    "lineNumber": 1925,
+                    "columnNumber": 180273,
+                    "backendNodeId": 173
+                }
+            ],
+            "marked": true
+        }
+    ],
+    "stats": {
+        "markedCount": 3,
+        "markedCountExplanation": "Número de elementos que contêm informações de dimensão e, portanto, são marcados na screenshot.",
+        "notMarkedCount": 0,
+        "notMarkedCountExplanation": "Número de elementos que não contêm informações de dimensão e não são marcados na screenshot."
+    }
+}

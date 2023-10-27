@@ -1,0 +1,5678 @@
+{
+    "sourceUrl": "https://nubank.com.br/",
+    "eventListeners": [
+        {
+            "id": "el17646243-a816-4d0a-8912-11cf2c36ebc9",
+            "nodeId": 1,
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elac4071dd-50fa-4e54-b2d5-8bdc94011d9d",
+            "nodeId": 132,
+            "xpath": "/html[1]/body[1]/div[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 147
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5867ef65-4468-430f-81cc-5243605deac7",
+            "nodeId": 1352,
+            "xpath": "/html[1]/body[1]/next-route-announcer[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 10194.59375,
+                "width": 0,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1353
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6791ae00-5ada-4e59-a061-a001947d52cf",
+            "nodeId": 133,
+            "xpath": "/html[1]/body[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 40,
+                "y": 40,
+                "width": 235.421875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 148
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 148
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el66d280c4-f3f3-40ac-89ce-a93301350e53",
+            "nodeId": 1349,
+            "xpath": "/html[1]/body[1]/div[2]/div[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 10194.59375,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keypress",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mouseup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                },
+                {
+                    "type": "mousemove",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1350
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elfb22af50-5c2f-4d8b-965f-cc3ab2b73a08",
+            "nodeId": 1350,
+            "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 1351
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el95c3066b-adb7-4650-9cc1-47c7d336552f",
+            "nodeId": 922,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[8]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 4779.1875,
+                "width": 917.609375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 923
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 923
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 923
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "eldb4d362f-b5bb-4552-8700-cc1f6dd2edd0",
+            "nodeId": 927,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[8]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 56,
+                "y": 4906.53125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 928
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 928
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 928
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el3efa52cf-e0ad-4cc8-9499-8fc291b32ec8",
+            "nodeId": 944,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[8]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1085.609375,
+                "y": 4779.1875,
+                "width": 761.390625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 945
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 945
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 945
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el66a6adb2-dba7-4f74-bdbd-c59fb6722014",
+            "nodeId": 949,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[8]/div[2]/a[2]",
+            "elementInfo": {
+                "x": 1085.609375,
+                "y": 4906.53125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 950
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 950
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 950
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf0b10daf-2073-4faa-ab93-79f3045f48b1",
+            "nodeId": 984,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[10]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 5565.484375,
+                "width": 189.75,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 985
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 985
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc05278e3-f651-4590-887d-e9d362d33c8b",
+            "nodeId": 1089,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9033.34375,
+                "width": 84.828125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1090
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1090
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el8ea41685-e197-4210-843f-34d9879b4805",
+            "nodeId": 1091,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9065.09375,
+                "width": 77.140625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1092
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1092
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc92d6019-57fa-4f56-bee0-95b33a213c67",
+            "nodeId": 1093,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[3]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9096.84375,
+                "width": 181.28125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1094
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1094
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2b2f5f2c-4369-4281-9e85-c03ce0a44818",
+            "nodeId": 1095,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[4]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9128.59375,
+                "width": 68.375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1096
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1096
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele64c6168-8160-48e7-aecb-3bbd7e4bac77",
+            "nodeId": 1097,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[5]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9160.34375,
+                "width": 79.21875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1098
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1098
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2c34aa0f-7d06-427c-a681-be794bfa15ab",
+            "nodeId": 1099,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[6]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9192.09375,
+                "width": 59.3125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1100
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1100
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc73ef5e4-947d-45ca-bf0b-31043f6db28a",
+            "nodeId": 1106,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[1]/a[7]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9224.390625,
+                "width": 127.484375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1107
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1107
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el8096a3d0-3207-484b-a868-10cf8bc1afa6",
+            "nodeId": 1116,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9033.34375,
+                "width": 108.15625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1117
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1117
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele446a35c-9feb-4837-a03d-92e5cc48af55",
+            "nodeId": 1118,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[2]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9065.09375,
+                "width": 147.546875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1119
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1119
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5c3f8963-e637-40ec-a28e-2158589bbb22",
+            "nodeId": 1120,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[3]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9096.84375,
+                "width": 166.421875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1121
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1121
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el20c24b93-630e-423d-89f8-4177847c9d9f",
+            "nodeId": 1122,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[4]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9128.59375,
+                "width": 201.640625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1123
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1123
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf06ceddd-320d-4c90-9990-bfa1e6145440",
+            "nodeId": 1124,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[5]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9160.34375,
+                "width": 102.046875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1125
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1125
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el33dcbbc7-f610-4e76-9779-9213aa8851e7",
+            "nodeId": 1126,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[6]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9192.09375,
+                "width": 72.265625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1127
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1127
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el020af148-f71b-4ab6-8607-1445faefd721",
+            "nodeId": 1128,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[7]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9223.84375,
+                "width": 168.703125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1129
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1129
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el014c3730-071c-4962-91a7-5be9e83b430e",
+            "nodeId": 1130,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[8]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9255.59375,
+                "width": 107.046875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1131
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1131
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "eld80c3587-eb35-4b66-ac46-aa5b9ee1f387",
+            "nodeId": 1132,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[2]/a[9]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9287.34375,
+                "width": 119,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1133
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1133
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el39f35598-bcdc-4651-8627-0a6677b849f4",
+            "nodeId": 1137,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[1]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9033.34375,
+                "width": 133.015625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1138
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1138
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el0b396159-6442-46f0-9fb9-b4627f23b152",
+            "nodeId": 1144,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[2]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9065.640625,
+                "width": 62.171875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1145
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1145
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6fdd5991-68ac-4d6d-9aa8-8d190c552058",
+            "nodeId": 1151,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[3]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9097.9375,
+                "width": 121.375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1152
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1152
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6b0064a0-9853-4e42-9d4a-62cada952a57",
+            "nodeId": 1158,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[4]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9130.234375,
+                "width": 115.5625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1159
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1159
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb691d260-7d7b-46de-9ed9-04566756ecdd",
+            "nodeId": 1165,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[5]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9162.53125,
+                "width": 85.203125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1166
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1166
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el981cb086-3e41-4bbd-a874-8f37ff884ce5",
+            "nodeId": 1172,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[3]/a[6]",
+            "elementInfo": {
+                "x": 951.5,
+                "y": 9194.828125,
+                "width": 105.578125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1173
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1173
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela623f5b8-6703-4d1f-a2a2-54eeae233b8a",
+            "nodeId": 1182,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[4]/a[1]",
+            "elementInfo": {
+                "x": 1399.25,
+                "y": 9033.34375,
+                "width": 162.515625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1183
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1183
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el14ac57af-1671-4f5c-b84b-35eee11dc850",
+            "nodeId": 1189,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[4]/a[2]",
+            "elementInfo": {
+                "x": 1399.25,
+                "y": 9065.640625,
+                "width": 140.5,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1190
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1190
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf69317fc-1e99-41f6-8181-4253802f9234",
+            "nodeId": 1199,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9454.84375,
+                "width": 191.390625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1200
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1200
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el04478dcc-8d3b-442b-bf99-6afb3bfb37b6",
+            "nodeId": 1201,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[2]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9486.59375,
+                "width": 180,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1202
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1202
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el548f2020-0b48-4b1a-9d5a-dee194dac564",
+            "nodeId": 1203,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[3]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9518.34375,
+                "width": 83.859375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1204
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1204
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7f122b8c-3bf2-40a3-9523-3c41dd14953d",
+            "nodeId": 1205,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[4]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9550.09375,
+                "width": 182.515625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1206
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1206
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb01377d2-730b-4a41-9f16-0f76b338fc7b",
+            "nodeId": 1207,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[5]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9581.84375,
+                "width": 159.03125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1208
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1208
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el19543e91-f560-4ebb-aecb-f5414bdb8564",
+            "nodeId": 1209,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[6]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9613.59375,
+                "width": 121.78125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1210
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1210
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el4d343001-4156-472f-8f47-ae484afbc2df",
+            "nodeId": 1211,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[7]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9645.34375,
+                "width": 35.953125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1212
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1212
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el888d27ae-9915-4a55-8578-4864f6c8a77c",
+            "nodeId": 1213,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[8]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9677.09375,
+                "width": 188.71875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1214
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1214
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el92448bd2-113c-46f8-b495-7db4a9eb2b32",
+            "nodeId": 1215,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[5]/a[9]",
+            "elementInfo": {
+                "x": 56,
+                "y": 9708.84375,
+                "width": 83.5625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1216
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1216
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el1e1ec041-7a85-4863-9e8d-296f93c9d670",
+            "nodeId": 1230,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[6]/a[4]",
+            "elementInfo": {
+                "x": 503.75,
+                "y": 9598.09375,
+                "width": 266.953125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1231
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1231
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el20f985b3-f3e9-4cdf-bd18-689a6c96d505",
+            "nodeId": 1246,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[8]/a[1]",
+            "elementInfo": {
+                "x": 1399.25,
+                "y": 9454.84375,
+                "width": 151,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1247
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1247
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf881559d-3ca2-49bc-ac2c-138c9ec98d95",
+            "nodeId": 1253,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[1]/div[8]/a[2]",
+            "elementInfo": {
+                "x": 1399.25,
+                "y": 9532.59375,
+                "width": 151,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1254
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1254
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2fbcc35b-205b-45fb-9639-174fe457a7cf",
+            "nodeId": 1301,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[2]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1619,
+                "y": 9912.71875,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1302
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1302
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6e213f1a-3614-4936-b541-37d3ef848450",
+            "nodeId": 1307,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[2]/div[2]/a[2]",
+            "elementInfo": {
+                "x": 1671,
+                "y": 9912.71875,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1308
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1308
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elbf833b52-65cc-4954-acf3-9732a775d79e",
+            "nodeId": 1313,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[2]/div[2]/a[3]",
+            "elementInfo": {
+                "x": 1723,
+                "y": 9912.71875,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1314
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1314
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb3fc18af-24ce-4ee3-95c3-348a7023457b",
+            "nodeId": 1319,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[2]/div[2]/a[4]",
+            "elementInfo": {
+                "x": 1775,
+                "y": 9912.71875,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1320
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1320
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc3c6f18f-0e6e-4f1b-8d74-3dc90e702006",
+            "nodeId": 1326,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[2]/div[2]/a[5]",
+            "elementInfo": {
+                "x": 1827,
+                "y": 9912.71875,
+                "width": 20,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1327
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1327
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2bcf58ad-0da6-42f9-b0c3-989ede674aa6",
+            "nodeId": 730,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[2]/button[1]",
+            "elementInfo": {
+                "x": 898.5,
+                "y": 1315,
+                "width": 48,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 731
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 731
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 731
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el345f9042-186f-4643-b368-1fc6191b2934",
+            "nodeId": 737,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[2]/button[2]",
+            "elementInfo": {
+                "x": 956.5,
+                "y": 1315,
+                "width": 48,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 738
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 738
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 738
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el080d83ab-aabc-4fe7-855e-16c4dd16202d",
+            "nodeId": 747,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[3]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 1655.671875,
+                "width": 556.5625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 748
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 748
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 748
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele3705f5a-26cd-401a-975c-868ac2cf15b7",
+            "nodeId": 751,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[3]/div[1]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 56,
+                "y": 1863.359375,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 752
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 752
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 752
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5fd0a34e-6fd5-4708-99ec-1bb4bce9df6d",
+            "nodeId": 771,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[4]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": 2204.328125,
+                "width": 425.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 772
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 772
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 772
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elfb428055-9481-461b-baab-f901316ca4e2",
+            "nodeId": 775,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[4]/div[1]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": 2356.671875,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 776
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 776
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 776
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el199b677f-0f1f-4bf8-98fd-b05622ff6714",
+            "nodeId": 890,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[7]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 56,
+                "y": 3990.875,
+                "width": 416.9375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 891
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 891
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 891
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el0b4a1109-6bf2-4c7e-bbec-d6a4922fc103",
+            "nodeId": 894,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[7]/div[1]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 56,
+                "y": 4142.890625,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 895
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 895
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 895
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el370a3636-4c22-494a-9eaf-9070bb7a200c",
+            "nodeId": 959,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[9]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": 5057.828125,
+                "width": 349.78125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 960
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 960
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 960
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el25f96327-ba4a-4fbe-8cbe-585ed14e401e",
+            "nodeId": 963,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[9]/div[1]/div[1]/a[2]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": 5321.515625,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 964
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 964
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 964
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc75cd2ef-2a41-4be3-8e32-ab934cf94053",
+            "nodeId": 1335,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[3]/ul[1]/li[1]/a[1]",
+            "elementInfo": {
+                "x": 1623.671875,
+                "y": 10070.59375,
+                "width": 102.9375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1336
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1336
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el0cfe4084-0d6e-485f-9613-9df4c7a03b0f",
+            "nodeId": 1341,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/div[3]/ul[1]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 1766.609375,
+                "y": 10070.59375,
+                "width": 80.390625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1342
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1342
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elcf06955b-2db5-4c70-8168-375d3b343803",
+            "nodeId": 149,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[1]/a[1]",
+            "elementInfo": {
+                "x": 124,
+                "y": 18,
+                "width": 98.90625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 164
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 164
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 164
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el3e3d776b-3c7f-4efb-8c59-66ce5094c493",
+            "nodeId": 153,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 246.90625,
+                "y": 18,
+                "width": 100.859375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 168
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 168
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 168
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el560a13d1-7c74-44c6-a531-c663a2f16060",
+            "nodeId": 207,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 371.765625,
+                "y": 18,
+                "width": 155.859375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 222
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 222
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 222
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el0614c4de-d85c-4008-89c7-421f135fae95",
+            "nodeId": 232,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 551.625,
+                "y": 18,
+                "width": 102.546875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 247
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 247
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 247
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "eld6e3fcb0-e051-4883-bf7b-038e220c282d",
+            "nodeId": 300,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[5]/a[1]",
+            "elementInfo": {
+                "x": 678.171875,
+                "y": 18,
+                "width": 75.796875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 315
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 315
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 315
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el84c23a89-35bb-413a-bb29-0a11bf365eb0",
+            "nodeId": 842,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[6]/div[2]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 80,
+                "y": 3815.578125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 843
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 843
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 843
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2139f980-723e-4a8b-b914-fe97bc73921a",
+            "nodeId": 861,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[6]/div[2]/div[2]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 690.328125,
+                "y": 3815.578125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 862
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 862
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 862
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele07a074e-a0e2-4357-b379-072d619963cd",
+            "nodeId": 880,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[6]/div[2]/div[3]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1300.65625,
+                "y": 3815.578125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 881
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 881
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 881
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5111d507-2158-4cf9-89d4-3bace4d27f83",
+            "nodeId": 1002,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[10]/div[2]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 81,
+                "y": 6195.296875,
+                "width": 105.046875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1003
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1003
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el28ec7e9a-6228-49dd-a27d-a99a43b2b3c2",
+            "nodeId": 1019,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[10]/div[2]/div[2]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 691.328125,
+                "y": 6195.296875,
+                "width": 105.046875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1020
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1020
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "eld2f9da26-5d30-4f96-86a9-679c198758b9",
+            "nodeId": 1036,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[10]/div[2]/div[3]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1301.65625,
+                "y": 6195.296875,
+                "width": 105.046875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1037
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1037
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7cc726da-fa14-4c20-bfb4-17b205945654",
+            "nodeId": 1049,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[11]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 359.828125,
+                "y": 6827.453125,
+                "width": 330.859375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1050
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1050
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el56c3bb04-e703-4c63-b02a-75fa4ca535c1",
+            "nodeId": 1064,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[12]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 359.828125,
+                "y": 7722.28125,
+                "width": 112.3125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1065
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1065
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el8ab64a10-bb68-482d-8432-aa32d312c8ad",
+            "nodeId": 1077,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[13]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 359.828125,
+                "y": 8553.453125,
+                "width": 183.734375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1078
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 1078
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el877bedaa-5363-4408-8707-222764458852",
+            "nodeId": 142,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": 24,
+                "width": 44,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 157
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 157
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 157
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el351899da-4960-434b-a139-af27d14de4e4",
+            "nodeId": 305,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1779.9375,
+                "y": 15.84375,
+                "width": 75.0625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 12
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 12
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 12
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el04024509-b8ac-4911-9ef1-b841c602bc46",
+            "nodeId": 165,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[1]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -211.10061645507812,
+                "width": 192,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 180
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 180
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 180
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7b6f5b20-6420-4a3d-bb3c-e8e08278fd21",
+            "nodeId": 168,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[1]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -159.42874145507812,
+                "width": 192.65625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 183
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 183
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 183
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el27f7c01e-9e13-427d-b3bf-43ee65f5c6e8",
+            "nodeId": 171,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[1]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -107.75686645507812,
+                "width": 263.328125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 186
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 186
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 186
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2761a90b-1631-4472-9b3c-670d58b4bfb1",
+            "nodeId": 174,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[1]/li[5]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -56.084991455078125,
+                "width": 161.328125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 189
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 189
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 189
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5de2bb34-a0bf-4bb6-8b8f-a9377bdb3a96",
+            "nodeId": 181,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[2]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 507.75,
+                "y": -211.10061645507812,
+                "width": 192.65625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 196
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 196
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 196
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elcfc166bb-afc5-47e6-81cc-3776404c3005",
+            "nodeId": 188,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[3]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": -211.10061645507812,
+                "width": 168,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 203
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 203
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 203
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6c5e4ab0-b26b-4a11-838b-b6d30e2783af",
+            "nodeId": 191,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[3]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": -159.42874145507812,
+                "width": 197.5,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 206
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 206
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 206
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela2ed74a4-c5fa-465f-a909-4f43e26a96bc",
+            "nodeId": 198,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[4]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 1427.25,
+                "y": -211.10061645507812,
+                "width": 145.0625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 213
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 213
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 213
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el008fe4f2-7064-463e-8b4a-af710ea80aad",
+            "nodeId": 201,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[4]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 1427.25,
+                "y": -159.42874145507812,
+                "width": 155.546875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 216
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 216
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 216
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el40d7609f-2de6-4c24-8a32-3a8b6002146a",
+            "nodeId": 204,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[2]/div[1]/ul[4]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 1427.25,
+                "y": -107.75686645507812,
+                "width": 107.328125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 219
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 219
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 219
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el16768bb2-9bb1-4b8f-87cf-02b5069d0d1d",
+            "nodeId": 219,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[3]/div[1]/ul[1]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -108.79031372070312,
+                "width": 94.421875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 234
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 234
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 234
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7b0134e9-151c-44b0-8773-a24c9ab169f1",
+            "nodeId": 222,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[3]/div[1]/ul[1]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -57.118438720703125,
+                "width": 220.140625,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 237
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 237
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 237
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el56e79bd5-ee90-447c-9eaf-6e158d51ba56",
+            "nodeId": 229,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[3]/div[1]/ul[2]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 967.5,
+                "y": -108.79031372070312,
+                "width": 70.875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 244
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 244
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 244
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele8864b72-c473-4722-9c36-50a81439c00c",
+            "nodeId": 244,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -364.56610107421875,
+                "width": 122.125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 259
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 259
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 259
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb4fe8f4a-6354-4f91-9618-6b924c07d706",
+            "nodeId": 247,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -312.89422607421875,
+                "width": 188.125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 262
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 262
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 262
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb594b8b0-95dd-4f0c-834b-d6045cea7b31",
+            "nodeId": 250,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -261.22235107421875,
+                "width": 100.6875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 265
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 265
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 265
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el0a046a55-bfff-46a5-8c9a-0ffdb5f98ac1",
+            "nodeId": 253,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[5]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -209.55047607421875,
+                "width": 128.578125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 268
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 268
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 268
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elad8448e7-7adf-4b53-89dc-2b0ee6b725b5",
+            "nodeId": 256,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[6]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -157.87860107421875,
+                "width": 135.109375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 271
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 271
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 271
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el57198451-9b9c-4f9b-a955-3470017d1104",
+            "nodeId": 259,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[7]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -106.20672607421875,
+                "width": 186.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 274
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 274
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 274
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela9cd991e-dc41-489d-b4d1-2a627a704726",
+            "nodeId": 261,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[7]/span[1]",
+            "elementInfo": {
+                "x": 254.53125,
+                "y": -100.37860107421875,
+                "width": 32.3125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 276
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elbfe90888-6ef2-4c28-9c7e-1282fe52ff70",
+            "nodeId": 265,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[8]/a[1]",
+            "elementInfo": {
+                "x": 48,
+                "y": -54.53485107421875,
+                "width": 118.96875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 280
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 280
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 280
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6aa888ee-4a57-4211-a577-1e0f9f3d610d",
+            "nodeId": 267,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[1]/li[8]/span[1]",
+            "elementInfo": {
+                "x": 186.96875,
+                "y": -48.70672607421875,
+                "width": 32.3125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 282
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7c0ddfb5-6cd8-43f8-a388-52d8d0058ce2",
+            "nodeId": 275,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[2]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 661,
+                "y": -364.56610107421875,
+                "width": 49.921875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 290
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 290
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 290
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el97850e5d-d344-4604-8fc4-b14a49ffd523",
+            "nodeId": 278,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[2]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 661,
+                "y": -312.89422607421875,
+                "width": 119.671875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 293
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 293
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 293
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7d7f2fff-00e4-4bbd-8377-00d56899edc4",
+            "nodeId": 281,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[2]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 661,
+                "y": -261.22235107421875,
+                "width": 142.953125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 296
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 296
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 296
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb10664a7-a4f4-4e7e-8699-da0f183908e9",
+            "nodeId": 284,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[2]/li[5]/a[1]",
+            "elementInfo": {
+                "x": 661,
+                "y": -209.55047607421875,
+                "width": 127.421875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 299
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 299
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 299
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc1d34b49-afb7-4a88-a77c-b229a57437dd",
+            "nodeId": 291,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[3]/li[2]/a[1]",
+            "elementInfo": {
+                "x": 1274,
+                "y": -364.56610107421875,
+                "width": 80.171875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 306
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 306
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 306
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el44ba2a84-b4d7-45bf-9711-2a862a07b05f",
+            "nodeId": 294,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[3]/li[3]/a[1]",
+            "elementInfo": {
+                "x": 1274,
+                "y": -312.89422607421875,
+                "width": 106.859375,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 309
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 309
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 309
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el348a78cf-9919-4f1b-86af-af437e0e60d2",
+            "nodeId": 297,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/li[4]/div[1]/ul[3]/li[4]/a[1]",
+            "elementInfo": {
+                "x": 1274,
+                "y": -261.22235107421875,
+                "width": 182.03125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 312
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 312
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 312
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el5ccba813-f152-4cb0-bcbc-c93d3c0c4c91",
+            "nodeId": 346,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[1]/div[2]/div[2]/div[1]/form[1]/div[1]/div[2]/button[1]",
+            "elementInfo": {
+                "x": 1569,
+                "y": 555.171875,
+                "width": 242,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 10
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 10
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el41da6e79-7b3d-489b-9b23-95276c239ed5",
+            "nodeId": 370,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -2099,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 371
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 371
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 371
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el1da22768-604b-4b28-828c-5eca7d056af0",
+            "nodeId": 386,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -1737,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 387
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 387
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 387
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el1161638d-d70a-4c9f-a598-685df65c4f21",
+            "nodeId": 403,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -1375,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 404
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 404
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 404
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el8f943fd6-cea0-4e91-9bf9-0482c51de2f6",
+            "nodeId": 420,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -1013,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 421
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 421
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 421
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela01ea0e8-0180-4a16-bd19-6904f0b14750",
+            "nodeId": 437,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -651,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 438
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 438
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 438
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el96a2d7a6-2b25-4d19-97e1-e696369824a1",
+            "nodeId": 454,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/a[1]",
+            "elementInfo": {
+                "x": -289,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 455
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 455
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 455
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf10739a9-5bfa-4142-817c-a8f3919ebf38",
+            "nodeId": 470,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 73,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 471
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 471
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 471
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elc6fd453c-b4c1-4ce7-bcde-574575f74b45",
+            "nodeId": 486,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 435,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 487
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 487
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 487
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6bf0ebe5-3596-43fd-9947-1ba0fb232ce9",
+            "nodeId": 502,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 797,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 503
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 503
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 503
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elba2ab0a5-f6e3-48a6-afaa-9c910bd03eab",
+            "nodeId": 518,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1159,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 519
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 519
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 519
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf440e736-ae33-400d-abd1-e7c250a32f32",
+            "nodeId": 535,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1521,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 536
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 536
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 536
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el7ed896d1-c5e3-440d-aab6-d3dd4ed5cc63",
+            "nodeId": 551,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1883,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 552
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 552
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 552
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb87dd230-6a64-4fd8-b555-f61579fba276",
+            "nodeId": 570,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 2245,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 571
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 571
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 571
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el16493151-b6cc-42da-bf83-f3a2fab8e985",
+            "nodeId": 587,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[14]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 2607,
+                "y": 1241.6875,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 588
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 588
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 588
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela726a1f3-23d9-4410-a8be-4c38bab43c1d",
+            "nodeId": 604,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[15]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 2969,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 605
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 605
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 605
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el23c39549-3966-4ad4-b86f-e90e7270e066",
+            "nodeId": 621,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[16]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 3331,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 622
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 622
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 622
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6f939c43-1b7e-483a-a595-f63e410301b4",
+            "nodeId": 638,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[17]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 3693,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 639
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 639
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 639
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elefe08009-edce-4250-a209-24763be7c654",
+            "nodeId": 654,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[18]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 4055,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 655
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 655
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 655
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el4c2cf0dd-4b17-4199-befb-77a4d2eadaa9",
+            "nodeId": 671,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[19]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 4417,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 672
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 672
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 672
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elf0717ae3-87f5-4e11-9905-c50ec187ce9c",
+            "nodeId": 688,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[20]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 4779,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 689
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 689
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 689
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el680ece9a-0353-40aa-aa4e-b50266255d99",
+            "nodeId": 705,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[21]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 5141,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 706
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 706
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 706
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2ab7e19f-aff0-47a4-bb0c-8f40d612819b",
+            "nodeId": 722,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[22]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 5503,
+                "y": 1241.703125,
+                "width": 114.53125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 723
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "33",
+                    "lineNumber": 0,
+                    "columnNumber": 27452,
+                    "backendNodeId": 723
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 0,
+                    "columnNumber": 55190,
+                    "backendNodeId": 723
+                }
+            ],
+            "marked": true
+        }
+    ],
+    "stats": {
+        "markedCount": 132,
+        "markedCountExplanation": "Número de elementos que contêm informações de dimensão e, portanto, são marcados na screenshot.",
+        "notMarkedCount": 0,
+        "notMarkedCountExplanation": "Número de elementos que não contêm informações de dimensão e não são marcados na screenshot."
+    }
+}

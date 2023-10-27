@@ -1,0 +1,425 @@
+{
+    "sourceUrl": "https://br.linkedin.com/",
+    "eventListeners": [
+        {
+            "id": "el5c5f2ebf-ef8b-4f69-941d-afd841b41834",
+            "nodeId": 1,
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 98,
+                    "columnNumber": 461,
+                    "backendNodeId": 1
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el6fa9e057-fc58-47cf-897a-e2d119982fea",
+            "nodeId": 121,
+            "xpath": "/html[1]/body[1]",
+            "elementInfo": {
+                "x": 0,
+                "y": 0,
+                "width": 1903,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "9",
+                    "lineNumber": 0,
+                    "columnNumber": 165448,
+                    "backendNodeId": 9
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "9",
+                    "lineNumber": 0,
+                    "columnNumber": 163611,
+                    "backendNodeId": 9
+                },
+                {
+                    "type": "click",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 257108,
+                    "backendNodeId": 9
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": true,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 257205,
+                    "backendNodeId": 9
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "9",
+                    "lineNumber": 0,
+                    "columnNumber": 165531,
+                    "backendNodeId": 9
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el48e156fc-1cfd-4ee4-b094-ba6c6366b73f",
+            "nodeId": 445,
+            "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]",
+            "elementInfo": {
+                "x": 387.5,
+                "y": 1879.375,
+                "width": 1128,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 178748,
+                    "backendNodeId": 446
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elb79ba449-3c1b-47f0-95cb-a5409fa1ebee",
+            "nodeId": 337,
+            "xpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]",
+            "elementInfo": {
+                "x": 867.5,
+                "y": 967.375,
+                "width": 648,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 52988,
+                    "backendNodeId": 338
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ela4e8bd9c-baa4-45d5-85eb-eb56ff82bf6f",
+            "nodeId": 848,
+            "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]",
+            "elementInfo": {
+                "x": 552.578125,
+                "y": 5682.375,
+                "width": 59.921875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 52988,
+                    "backendNodeId": 849
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elae4ab405-5c55-4164-bf80-6ed9796831c9",
+            "nodeId": 339,
+            "xpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/ul[1]",
+            "elementInfo": {
+                "x": 867.5,
+                "y": 967.375,
+                "width": 648,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53054,
+                    "backendNodeId": 340
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elcfd83238-8d21-433e-bf21-a5dd0a454300",
+            "nodeId": 427,
+            "xpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/button[1]",
+            "elementInfo": {
+                "x": 884.5,
+                "y": 1223.375,
+                "width": 92.296875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53118,
+                    "backendNodeId": 428
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53212,
+                    "backendNodeId": 428
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "ele81bea59-09f4-4a1b-9a71-ea92cfe91bc0",
+            "nodeId": 430,
+            "xpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/button[2]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53302,
+                    "backendNodeId": 431
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53364,
+                    "backendNodeId": 431
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "elcc743f5d-f012-48c9-bc57-18cf6b5bf618",
+            "nodeId": 850,
+            "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/ul[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53054,
+                    "backendNodeId": 851
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 63136,
+                    "backendNodeId": 851
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "el88f64006-ba95-49db-bb73-d620823ec9b1",
+            "nodeId": 957,
+            "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/button[1]",
+            "elementInfo": {
+                "x": 553.578125,
+                "y": 5683.375,
+                "width": 41.921875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53118,
+                    "backendNodeId": 958
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53212,
+                    "backendNodeId": 958
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el32a92c82-2490-4d50-bac1-994bef3e2fff",
+            "nodeId": 265,
+            "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/button[1]",
+            "elementInfo": {
+                "x": 737.28125,
+                "y": 443.375,
+                "width": 40.21875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 267584,
+                    "backendNodeId": 271
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el2bd28924-3b42-4795-9cb1-25bed0c5f6db",
+            "nodeId": 300,
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 98,
+                    "columnNumber": 461,
+                    "backendNodeId": 306
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 98,
+                    "columnNumber": 461,
+                    "backendNodeId": 306
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "ele94a3392-76c2-45e0-8dd6-e5a73df11591",
+            "nodeId": 511,
+            "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]",
+            "elementInfo": {
+                "x": 976.5,
+                "y": 3328.375,
+                "width": 330,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53118,
+                    "backendNodeId": 512
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53212,
+                    "backendNodeId": 512
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el8a269939-a6bd-46da-bea4-2ed7ec0b0546",
+            "nodeId": 515,
+            "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "8",
+                    "lineNumber": 1,
+                    "columnNumber": 53054,
+                    "backendNodeId": 516
+                }
+            ],
+            "marked": false
+        }
+    ],
+    "stats": {
+        "markedCount": 10,
+        "markedCountExplanation": "Número de elementos que contêm informações de dimensão e, portanto, são marcados na screenshot.",
+        "notMarkedCount": 4,
+        "notMarkedCountExplanation": "Número de elementos que não contêm informações de dimensão e não são marcados na screenshot."
+    }
+}

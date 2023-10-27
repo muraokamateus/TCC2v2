@@ -2,7 +2,7 @@
     "sourceUrl": "https://www.google.com.br/",
     "eventListeners": [
         {
-            "id": "el1ac7c3da-fc5e-4c91-9e46-8c43fdd30c14",
+            "id": "el8e8fc930-ba40-4dea-923e-f2630d5e4555",
             "nodeId": 1,
             "elementInfo": {
                 "x": 0,
@@ -16,8 +16,8 @@
                     "useCapture": true,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
                     "backendNodeId": 1
                 },
@@ -26,8 +26,8 @@
                     "useCapture": true,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
                     "backendNodeId": 1
                 },
@@ -36,8 +36,8 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
                     "backendNodeId": 1
                 },
@@ -46,8 +46,8 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
                     "backendNodeId": 1
                 },
@@ -56,8 +56,8 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
                     "backendNodeId": 1
                 },
@@ -66,15 +66,16 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 272,
+                    "scriptId": "15",
+                    "lineNumber": 275,
                     "columnNumber": 548,
                     "backendNodeId": 1
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el5b40e9b2-bf36-400a-b2ca-92d04b081b42",
+            "id": "elf630c368-c7dd-4723-849a-b800d0603322",
             "nodeId": 3,
             "xpath": "/html[1]",
             "elementInfo": {
@@ -89,75 +90,76 @@
                     "useCapture": true,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 3,
                     "columnNumber": 288,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "click",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "keyup",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "keypress",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "mousedown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 },
                 {
                     "type": "mouseup",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "8",
+                    "scriptId": "7",
                     "lineNumber": 22,
                     "columnNumber": 225,
-                    "backendNodeId": 15
+                    "backendNodeId": 14
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "elcca51601-75c6-4fca-ade8-934c1248a12d",
+            "id": "elefb83e28-0e68-4453-900b-eea087dca65f",
             "nodeId": 28,
             "xpath": "/html[1]/body[1]",
             "elementInfo": {
@@ -172,15 +174,16 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "15",
-                    "lineNumber": 121,
-                    "columnNumber": 1170,
-                    "backendNodeId": 13
+                    "scriptId": "14",
+                    "lineNumber": 123,
+                    "columnNumber": 1188,
+                    "backendNodeId": 12
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el96a9c806-ec7b-4227-b1b7-36042574f510",
+            "id": "el0ba70139-5e9c-4e7b-98bf-aa23da2f7e42",
             "nodeId": 31,
             "xpath": "/html[1]/body[1]/div[1]",
             "elementInfo": {
@@ -195,17 +198,18 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 42
+                    "backendNodeId": 41
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el58694f3d-4d2f-4b4c-a1bd-b26ab1a745d4",
-            "nodeId": 54,
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "id": "el70e4a11c-bc0e-4620-9b9b-0d049cbb5a4e",
+            "nodeId": 56,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
             "elementInfo": {
                 "x": 1805.984375,
                 "y": 22,
@@ -218,89 +222,37 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 65
+                    "backendNodeId": 66
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 65
+                    "backendNodeId": 66
                 },
                 {
                     "type": "keyup",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 65
+                    "backendNodeId": 66
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "elfa1e1bf8-3c72-4d7f-bc58-3eae6a5f56d9",
-            "nodeId": 48,
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
-            "elementInfo": {
-                "x": 1729.984375,
-                "y": 10,
-                "width": 40,
-                "height": 0
-            },
-            "eventListeners": [
-                {
-                    "type": "click",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 59
-                },
-                {
-                    "type": "keydown",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 59
-                },
-                {
-                    "type": "keydown",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 59
-                },
-                {
-                    "type": "keyup",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 59
-                }
-            ]
-        },
-        {
-            "id": "el47016fcd-a1d7-440c-a6e7-694d75ce4795",
-            "nodeId": 187,
+            "id": "elfc4c2c39-d543-496f-8dc5-a535057e99ff",
+            "nodeId": 189,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
             "elementInfo": {
                 "x": 683,
@@ -314,16 +266,17 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
+                    "scriptId": "11",
                     "lineNumber": 1901,
                     "columnNumber": 470,
-                    "backendNodeId": 193
+                    "backendNodeId": 194
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el03eb4a0b-b2dd-48e8-b7e9-c101b769c58a",
-            "nodeId": 329,
+            "id": "el3d06e989-1c22-4472-b8f5-d77884797482",
+            "nodeId": 331,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[4]/center[1]/input[1]",
             "elementInfo": {
                 "x": 833.15625,
@@ -337,21 +290,22 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
+                    "scriptId": "11",
                     "lineNumber": 1901,
                     "columnNumber": 8,
-                    "backendNodeId": 332
+                    "backendNodeId": 334
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "elce9d95ca-821e-4583-9d06-44020c8489b5",
-            "nodeId": 41,
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "id": "el0a7129d8-c406-4550-8903-fd9e0dd91873",
+            "nodeId": 49,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
             "elementInfo": {
-                "x": 1612.15625,
-                "y": 18,
-                "width": 33.953125,
+                "x": 1729.984375,
+                "y": 10,
+                "width": 40,
                 "height": 0
             },
             "eventListeners": [
@@ -360,79 +314,47 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 52
+                    "backendNodeId": 59
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 52
-                },
-                {
-                    "type": "keyup",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 52
-                }
-            ]
-        },
-        {
-            "id": "el615e7bc6-06b9-4cce-b137-36f5415d5b36",
-            "nodeId": 44,
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-            "elementInfo": {
-                "x": 1661.109375,
-                "y": 18,
-                "width": 49.875,
-                "height": 0
-            },
-            "eventListeners": [
-                {
-                    "type": "click",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "16",
-                    "lineNumber": 19,
-                    "columnNumber": 35,
-                    "backendNodeId": 55
+                    "backendNodeId": 59
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 55
+                    "backendNodeId": 59
                 },
                 {
                     "type": "keyup",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
-                    "backendNodeId": 55
+                    "backendNodeId": 59
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el26ef508a-96e2-4418-aa3c-1e56fd890924",
-            "nodeId": 216,
+            "id": "ela71b0f6c-3ec3-4903-bfb6-230f0d0faa3c",
+            "nodeId": 218,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]",
             "elementInfo": {
                 "x": 1131,
@@ -446,36 +368,37 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 221
+                    "backendNodeId": 222
                 },
                 {
                     "type": "click",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 221
+                    "backendNodeId": 222
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 221
+                    "backendNodeId": 222
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el8faad1df-7961-4afd-a89f-670b8ac6960f",
-            "nodeId": 221,
+            "id": "elae1d0680-1d9a-42b7-95c3-2ad62c67117a",
+            "nodeId": 223,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]",
             "elementInfo": {
                 "x": 1171,
@@ -489,36 +412,37 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 225
+                    "backendNodeId": 227
                 },
                 {
                     "type": "click",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 225
+                    "backendNodeId": 227
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 225
+                    "backendNodeId": 227
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "elb003881a-15d6-4637-995e-1293986ed557",
-            "nodeId": 229,
+            "id": "el05868e18-02aa-4db0-8b3a-d61c28aa8df3",
+            "nodeId": 231,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]",
             "elementInfo": {
                 "x": 1211,
@@ -532,37 +456,203 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 233
+                    "backendNodeId": 235
                 },
                 {
                     "type": "click",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 233
+                    "backendNodeId": 235
                 },
                 {
                     "type": "keydown",
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
+                    "scriptId": "11",
+                    "lineNumber": 418,
                     "columnNumber": 35,
-                    "backendNodeId": 233
+                    "backendNodeId": 235
                 }
-            ]
+            ],
+            "marked": true
         },
         {
-            "id": "el8e381686-37e8-4abc-8f98-d73e27446568",
-            "nodeId": 50,
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+            "id": "el72405ecd-d181-4337-9ee0-6b9a32cd5394",
+            "nodeId": 42,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+            "elementInfo": {
+                "x": 1612.15625,
+                "y": 18,
+                "width": 33.953125,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 52
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "elcd7e69c7-ed6f-4ca4-8618-f03fa98810d6",
+            "nodeId": 45,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+            "elementInfo": {
+                "x": 1661.109375,
+                "y": 18,
+                "width": 49.875,
+                "height": 0
+            },
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                },
+                {
+                    "type": "keyup",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "15",
+                    "lineNumber": 19,
+                    "columnNumber": 35,
+                    "backendNodeId": 55
+                }
+            ],
+            "marked": true
+        },
+        {
+            "id": "el34105fa1-2cb5-4395-b85b-eb558fe339c6",
+            "nodeId": 211,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "mousedown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 418,
+                    "columnNumber": 35,
+                    "backendNodeId": 215
+                },
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 418,
+                    "columnNumber": 35,
+                    "backendNodeId": 215
+                },
+                {
+                    "type": "keydown",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 418,
+                    "columnNumber": 35,
+                    "backendNodeId": 215
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "el977fecd0-12ca-4726-b1d2-359e1195fc10",
+            "nodeId": 312,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[1]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 1901,
+                    "columnNumber": 8,
+                    "backendNodeId": 316
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "eld54a486a-0ad8-44d3-bd43-ab62e333e75e",
+            "nodeId": 315,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[2]",
+            "elementInfo": null,
+            "eventListeners": [
+                {
+                    "type": "click",
+                    "useCapture": false,
+                    "passive": false,
+                    "once": false,
+                    "scriptId": "11",
+                    "lineNumber": 1901,
+                    "columnNumber": 170,
+                    "backendNodeId": 319
+                }
+            ],
+            "marked": false
+        },
+        {
+            "id": "el7b6758c6-d5c2-4b15-b702-331d85fbd5e0",
+            "nodeId": 51,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
             "elementInfo": {
                 "x": 1737.984375,
                 "y": 18,
@@ -575,7 +665,7 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
                     "backendNodeId": 61
@@ -585,7 +675,7 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
                     "backendNodeId": 61
@@ -595,7 +685,7 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
                     "backendNodeId": 61
@@ -605,86 +695,19 @@
                     "useCapture": false,
                     "passive": false,
                     "once": false,
-                    "scriptId": "16",
+                    "scriptId": "15",
                     "lineNumber": 19,
                     "columnNumber": 35,
                     "backendNodeId": 61
                 }
-            ]
-        },
-        {
-            "id": "el9454b08d-d2ac-4b14-902a-eb465e819457",
-            "nodeId": 209,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
-            "elementInfo": null,
-            "eventListeners": [
-                {
-                    "type": "mousedown",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
-                    "columnNumber": 35,
-                    "backendNodeId": 214
-                },
-                {
-                    "type": "click",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
-                    "columnNumber": 35,
-                    "backendNodeId": 214
-                },
-                {
-                    "type": "keydown",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 412,
-                    "columnNumber": 35,
-                    "backendNodeId": 214
-                }
-            ]
-        },
-        {
-            "id": "el76dbc0aa-6f23-4554-a29f-14bd6eeae203",
-            "nodeId": 310,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[1]",
-            "elementInfo": null,
-            "eventListeners": [
-                {
-                    "type": "click",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 1901,
-                    "columnNumber": 8,
-                    "backendNodeId": 314
-                }
-            ]
-        },
-        {
-            "id": "elab106fa9-c47f-4a2b-b1f7-02a4be54bd9e",
-            "nodeId": 313,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[2]/div[2]/div[5]/center[1]/input[2]",
-            "elementInfo": null,
-            "eventListeners": [
-                {
-                    "type": "click",
-                    "useCapture": false,
-                    "passive": false,
-                    "once": false,
-                    "scriptId": "13",
-                    "lineNumber": 1901,
-                    "columnNumber": 170,
-                    "backendNodeId": 317
-                }
-            ]
+            ],
+            "marked": true
         }
-    ]
+    ],
+    "stats": {
+        "markedCount": 14,
+        "markedCountExplanation": "Número de elementos que contêm informações de dimensão e, portanto, são marcados na screenshot.",
+        "notMarkedCount": 3,
+        "notMarkedCountExplanation": "Número de elementos que não contêm informações de dimensão e não são marcados na screenshot."
+    }
 }
